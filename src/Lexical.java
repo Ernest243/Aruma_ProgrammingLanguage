@@ -7,7 +7,7 @@ public class Lexical
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		// Testing if the function is working...
-		readSource("E:\\Java\\PLC_Spring_2020\\test_2");
+		readSource("test_2");
 	}
 	
 	/*
