@@ -70,7 +70,7 @@ public class Compiler  {
             }
         }
 
-        System.out.println(lex.toString());
+        //System.out.println(lex.toString());
         return lex;
     }
 
