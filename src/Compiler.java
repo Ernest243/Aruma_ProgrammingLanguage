@@ -8,6 +8,9 @@ import java.io.PrintWriter;
 public class Compiler  {
 
     public static void main(String[] args) throws IOException {
+        
+        /* The test parameter passed in the function below represent the source
+         file name that should be passed into the function to be parsed. Might be different... */
         parseSource("test");
         generateTokens();
     }
